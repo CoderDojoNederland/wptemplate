@@ -18,7 +18,6 @@ public_html/*
 # folders
 !public_html/wp-content/
 # files
-!public_html/.htaccess
 !public_html/favicon.ico
 !public_html/favicon.png
 !public_html/humans.txt
