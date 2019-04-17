@@ -43,6 +43,7 @@ public_html/wp-content/plugins/*
 public_html/wp-content/themes/*
 # folders
 !public_html/wp-content/themes/coderdojo-2019/
+!public_html/wp-content/themes/coderdojo-2019/acf-json/
 # files
 #
 

@@ -1,0 +1,43 @@
+{
+    "key": "group_5cb11c9e4894d",
+    "title": "Site Settings",
+    "fields": [
+        {
+            "key": "field_5cb11cb73d596",
+            "label": "CoderDojo <Location>",
+            "name": "dojo_location",
+            "type": "text",
+            "instructions": "Which CoderDojo are we?",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "site-settings"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "seamless",
+    "label_placement": "left",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1555111220
+}

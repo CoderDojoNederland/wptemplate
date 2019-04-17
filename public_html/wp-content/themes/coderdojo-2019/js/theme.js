@@ -1,5 +1,8 @@
 (function($) {
 
-    console.log( 'Your theme JS is working!' );
+    $('.owl-carousel').owlCarousel({
+        'loop': true,
+        'margin': 30,
+    });
 
 })( jQuery );
