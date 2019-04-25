@@ -40,7 +40,7 @@ function coderdojo_output_event()
             "query"     => array(
                 "dojoId"            => $dojoId,
                 // "status"         => "string",
-                "filterPastEvents"  => true,
+                // "filterPastEvents"  => true,
                 // "sort$"              => "string",
                 // "limit$"         => "string",
                 // "skip$"              => "string"
